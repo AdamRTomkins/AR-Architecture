@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generate City Meshes
-img: sheffield.png # Add image post (optional)
+img: CityMesh/Unity_Sheffield_AR.jpeg
 date: 2018-01-25 12:34:00
 description: Using Open Street Maps to generate your own City Meshes
 tag: [Augmented Reality, Architecture, Unity, Modelling, Meshes, CityMesh]

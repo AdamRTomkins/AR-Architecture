@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use custom markers with Vuforia"
-img: sheffield.png # Add image post (optional)
+img: Custom_Markers/Sheffield_Map.png
 date: 2018-01-28 15:20:00
 description: Learn how to any marker in Vuforia, including maps!
 tag: [Augmented Reality, Architecture, Unity, Modelling, Ter	rain]
