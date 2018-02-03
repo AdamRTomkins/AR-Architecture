@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to build Android Apps in Unity"
-img: sheffield.png
+img: Android/dev.jpg
 date: 2018-01-27 15:20:00
 description: Learn how to Build your Unity AR App for Android.
 tag: [Augmented Reality, Architecture, Unity, Android]
