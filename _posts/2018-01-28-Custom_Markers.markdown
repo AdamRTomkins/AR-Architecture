@@ -32,7 +32,7 @@ This tutorial will take you from the Vuforia [Tracked Marker Tutorial](http://ad
 We're going to assume that you have already set up the Vuforia package and have a Vuforia Account and License key. 
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Terrain/Select_Terrain.PNG" alt="Selecting Terrain" title="Terrain Selection"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Terrain/Select_Terrain.PNG" alt="Selecting Terrain" title="Terrain Selection"/>
 </div>
 
 
@@ -41,7 +41,7 @@ We're going to assume that you have already set up the Vuforia package and have 
 We are going to require a set of visually distinct Marker Images. I am going to take the opportunity to create a set of map images from the wonderful resource, [Stamen Maps](maps.stamen.com/), using the Toner Setting. As I will be using this in a Sheffield based AR project, I'll create a Sheffield map.
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Sheffield_Map.png" alt="Sheffield Map" title="Sheffield Map Marker"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Sheffield_Map.png" alt="Sheffield Map" title="Sheffield Map Marker"/>
 </div>
 
 #### 3. Create your Target Database
@@ -51,7 +51,7 @@ We are going to require a set of visually distinct Marker Images. I am going to 
  When you're looking at a project, click Target Manager in the Navigation Bar. Here we can add a new Database.
  
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Create_Database.PNG" alt="Create a new Database" title="Create a new Database"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Create_Database.PNG" alt="Create a new Database" title="Create a new Database"/>
 </div>
 
 Click Add Database, Give it a name (Maps for me) and select Device Database. This means the database will be stored on the AR device, and will not require any cloud access. This is faster to recognise, but cant be as easily updated.
@@ -59,13 +59,13 @@ Click Add Database, Give it a name (Maps for me) and select Device Database. Thi
 Once you're created on, Open it up and click Add Target. Here you will want to select "Single Image", upload your file and set the image scene width. Remember that 1 is 1 meter in the scene, and would require printing a meter squared for your target. I'm going to put 0.1, to enable a 10cm target image. Give your Image a Unique name, and press Add.
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Add_Target.PNG" alt="Add Target" title="Add Target"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Add_Target.PNG" alt="Add Target" title="Add Target"/>
 </div>
 
 This will upload your Image and take you back to the database view. Now if you open up the Image, you can see the marker, and inspect the visual features using Show Features, and see the Augmentable Rank. If you get a low rank, you can change the images with "Update Target".
 
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Target_Features.PNG" alt="Inspect the Target Features" title="Target Features"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Target_Features.PNG" alt="Inspect the Target Features" title="Target Features"/>
 </div>
 
 #### 4. Import the Database into Unity
@@ -77,7 +77,7 @@ When you're finished creating you database, you can click "Download Database" an
 When the database is imported, you can enable it by Clicking on your AR camera, and opening the Vuforia Configuration, and enabling the Database you imported. 
 
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Add_Database.PNG" alt="Add Database" title="Add Database"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Add_Database.PNG" alt="Add Database" title="Add Database"/>
 </div>
 
 #### 5. Use your Custom Marker
@@ -85,17 +85,17 @@ When the database is imported, you can enable it by Clicking on your AR camera, 
 Finally you can set your Image Target up to use your new Database and Marker by setting the Database and Image target to your new marker, in the inspector window.
 
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Use_Marker.PNG" alt="Use Custom Marker" title="Use Custom Marker"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Use_Marker.PNG" alt="Use Custom Marker" title="Use Custom Marker"/>
 </div>
  
 And you should now see your custom marker on your target Image. Print out your markers, and git it a shot.
 
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Custom_Marker.PNG" alt="Custom Marker" title="Custom Marker"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/Custom_Marker.PNG" alt="Custom Marker" title="Custom Marker"/>
 </div>
 
 You can see it running here in Unity, with much better tracking than the astronaut, displaying a Arts Tower Mesh, a famous Sheffield landmark. You can see how to import SketchUp models like the Arts tower, in the next article.
 
  <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/ArtsTower.PNG" alt="ArtsTower" title="The Sheffield Arts Tower"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Custom_Markers/ArtsTower.PNG" alt="ArtsTower" title="The Sheffield Arts Tower"/>
 </div>

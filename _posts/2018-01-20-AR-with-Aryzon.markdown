@@ -41,7 +41,7 @@ This project shouldn't take more that 20 minutes to get up and running, we're as
 Firlstly, we'll start out with a standard new  project, in 3D, and save it as Aryzon Tutorial. 
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Tracked_AR_Vuforia/Unity_Sheffield_AR.jpeg" alt=Sheffield in AR" title="Sheffield_in_AR"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Tracked_AR_Vuforia/Unity_Sheffield_AR.jpeg" alt=Sheffield in AR" title="Sheffield_in_AR"/>
 	
 </div>
 

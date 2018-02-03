@@ -29,7 +29,7 @@ Now that you're ready to build the app, your first stop is to set your Build Tar
 
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/Android/Build_Settings.PNG" alt="Build Setting" title="Build Settings"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/Android/Build_Settings.PNG" alt="Build Setting" title="Build Settings"/>
 </div>
 
 You will see the Unity Cubo logo indicating the current build platform, to switch, click on Android and click the switch platform button. It may take a while to recompile your scripts and assets.
