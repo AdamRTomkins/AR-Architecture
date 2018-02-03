@@ -1,14 +1,7 @@
 ---
 layout: post
-title:  Bring your SketchUp models into Unity
-date: 2018-01-29 15:20:00
-description: Expand past the Asset Store and access the huge SketchUp databases in Unity.
----
-
----
-layout: post
 title: "Bring your SketchUp models into Unity"
-img: SketchUp/OpenModel.PNG # Add image post (optional)
+img: SketchUp/OpenModel.PNG
 date: 2018-01-29 15:20:00
 description: Expand past the Asset Store and access the huge SketchUp databases in Unity.
 tag: [Augmented Reality, Architecture, Resources, SketchUp, Modelling]
