@@ -57,6 +57,6 @@ When you've finished re-touching the model you can export it as an FBX file by u
 Now that the file is in an FBX format, it should be as easy as a drag and drop to get to see your model in Unity, as so!
 
 <div class="img_row">
-	<img style="max-height: 100%"  src="{{ site.baseurl }}/img/Blogs/SketchUp/Unity.PNG" alt="Open a Sketch Up Model in Unity" title="Open a Sketch Up Model in Unity"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/SketchUp/Unity.PNG" alt="Open a Sketch Up Model in Unity" title="Open a Sketch Up Model in Unity"/>
 </div>
 
