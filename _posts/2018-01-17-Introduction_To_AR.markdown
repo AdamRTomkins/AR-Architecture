@@ -21,7 +21,7 @@ In augmented reality you still squarely inhabit this world, but with additions o
 
 There are two main types of augmented reality, which reflect the evolution in AR, Tracked and Trackerless.
 
-Tracked AR uses an image or object than can be easily digitally recognised, and is tracked by the AR device, and used as place holder in the real world, this gives you a place in the world that you can overlay your digital images. In its purest form, this is the easiest AR to build, and can be very effective, but has several drawbacks. You can find my first tutorial on tracked AR in Vuforia (here)[..]
+Tracked AR uses an image or object than can be easily digitally recognised, and is tracked by the AR device, and used as place holder in the real world, this gives you a place in the world that you can overlay your digital images. In its purest form, this is the easiest AR to build, and can be very effective, but has several drawbacks. You can find my first tutorial on tracked AR in Vuforia [here](https://adamrtomkins.github.io/AR-Architecture/Unity_Vuforia/)
 
 Trackerless AR is more complicated, and uses more computationally intensive methods to profile the real world, and extract areas of interest, such as flat planes( a table or the floor). This information can then be used to more intelligently add digital overlays, such as a cat walking around the floor, or plants growing on the table. The latest AR libraries from Google (ARCore) and Apple (ARKit) are capable of this kind of trackerless AR experience.
 
@@ -54,5 +54,5 @@ The AR space is not as developed as the VR Space with dedicated VR Headsets and 
 
 The big players in the space are Microsoft with the Hololens, and Meta with the Meta2 headset. While these are promising, they are hard to get hold of and expensive, especially as a fledgling AR developer.
 
-We will focus on the Mobile AR development, which gives you two options, hand-held mobile AR, and Cardboard style AR headsets, such as the Aryzon. You can find the getting started tutorials with both, using Vuforia [here](https://adamrtomkins.github.io/AR-Architecture/Unity_Vuforia/) and [here][https://adamrtomkins.github.io/AR-Architecture/AR-with-Aryzon/]
+We will focus on the Mobile AR development, which gives you two options, hand-held mobile AR, and Cardboard style AR headsets, such as the Aryzon. You can find the getting started tutorials with both, using Vuforia [here](https://adamrtomkins.github.io/AR-Architecture/Unity_Vuforia/) and [here](https://adamrtomkins.github.io/AR-Architecture/AR-with-Aryzon/)
 
