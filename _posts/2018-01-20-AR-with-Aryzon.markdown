@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wearable AR with the Aryzon Headset"
-img: sheffield.png # Add image post (optional)
+img: Aryzon/aryzon.jpg # Add image post (optional)
 date: 2018-01-20 12:34:56
 description: Unleash yourself from the screen, and build your first AR App with the Aryzon Headset
 tag: [Augmented Reality, Architecture, Unity, Vuforia, Aryzon]
