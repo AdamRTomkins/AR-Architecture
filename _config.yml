@@ -12,18 +12,18 @@ url: "https://adamrtomkins.github.io" # the base hostname & protocol for your si
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Augmented Reality & Architecture # add banner title
-banner-desc: # add banner description
+banner-desc: A collection of resources to encourage Architects to develop AR models by Adam Tomkins. 
 
 # Author settings
 author-pic: me.png # your photo
-author-name: Adam Tomkins# your name
+author-name: Adam Tomkins
 about-author: A Research Software Engineer and Neuroinformatic Tool Developer from Sheffield, UK
 email: a.tomkins@sheffield.ac.uk
 phone: N/A
 website: https://adamrtomkins.github.io
 
 # Social link
-twitter_url:   # add url link
+twitter_url:   https://twitter.com/DrTomki 
 
 # Paginate
 paginate: 12
