@@ -37,7 +37,7 @@ There are several easily accessible ways to develop an AR application, with some
 
 #### Vuforia
 
-My first experiences with AR was with Vuforia, and it has a free developer tier which makes it great to easily get involved with. Since my initial forays into AR with Vuroria, it has since been integrated directly into Unity, making your first AR experience a doddle.
+My first experiences with AR were with Vuforia, and it has a free developer tier which makes it great to easily get involved with. Since my initial forays into AR with Vuroria, it has since been integrated directly into Unity, making your first AR experience a doddle.
 
 #### ARjs and A-Frame
 
@@ -54,5 +54,5 @@ The AR space is not as developed as the VR Space with dedicated VR Headsets and 
 
 The big players in the space are Microsoft with the Hololens, and Meta with the Meta2 headset. While these are promising, they are hard to get hold of and expensive, especially as a fledgling AR developer.
 
-We will focus on the Mobile AR development, which gives you two options, hand-held mobile AR, and Cardboard style AR headsets, such as the Aryzon. You can find the getting started tutorials with both, using Vuforia (here)[..] and (here)[..]
+We will focus on the Mobile AR development, which gives you two options, hand-held mobile AR, and Cardboard style AR headsets, such as the Aryzon. You can find the getting started tutorials with both, using Vuforia [here](https://adamrtomkins.github.io/AR-Architecture/Unity_Vuforia/) and [here][https://adamrtomkins.github.io/AR-Architecture/AR-with-Aryzon/]
 
