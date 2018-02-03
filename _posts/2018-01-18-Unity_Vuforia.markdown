@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started with Tracker Based AR"
-img: sheffield.png # Add image post (optional)
+img: Tracked_AR_Vuforia/Unity_AR_Test.PNG
 date: 2018-01-18 13:00:00
 description: A tutorial on how to build your first tracker based AR app with Vuforia and Unity.
 tag: [Augmented Reality, Architecture, Vuforia, Unity]
