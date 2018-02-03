@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to AR Development"
-img: ../../img/sheffield.png # Add image post (optional)
+img: sheffield.png # Add image post (optional)
 date: 2018-01-17 13:00:00
 description: An introduction to the technologies behind Augmented reality, and where to start developing.
 tag: [Augmented Reality, Architecture, Resources]
