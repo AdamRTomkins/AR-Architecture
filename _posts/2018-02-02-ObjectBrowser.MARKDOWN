@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project: Sheffield AR Building Browser"
-img: ObjectBrowser/WestStreet.jpg
+img: ObjectBrowser/WestStreet.jpeg
 date: 2018-01-29 15:20:00
 description: An example project using the tracked markers for a Sheffield building browser.
 tag: [Augmented Reality, Architecture, Project, Shedfield, SketchUp, C#]
@@ -20,7 +20,7 @@ The end goal of this tutorial is an Android App which:
 This should look something along the lines of:
 
 <div class="img_row">
-	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/ObjectBrowser/WestStreet.jpg" alt="West Street in Sheffield ExplorAR" title="West Street in Sheffield ExplorAR"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/ObjectBrowser/WestStreet.jpeg" alt="West Street in Sheffield ExplorAR" title="West Street in Sheffield ExplorAR"/>
 </div>
 
 #### 1. Prepare your models.
@@ -262,5 +262,5 @@ And that should be all that it takes, to get this simple browser up and running.
 Now, you should see something like this, when you target your Tracker
 
 <div class="img_row">
-	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/ObjectBrowser/ArtsTower.jpg" alt="Arts Tower in Sheffield ExplorAR" title="Arts Tower in Sheffield ExplorAR"/>
+	<img style="max-height: 100%;max-width: 100%"  src="{{ site.baseurl }}/img/Blogs/ObjectBrowser/ArtsTower.jpeg" alt="Arts Tower in Sheffield ExplorAR" title="Arts Tower in Sheffield ExplorAR"/>
 </div>
