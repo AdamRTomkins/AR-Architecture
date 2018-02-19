@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ground Plane Detection"
-img: ObjectBrowser/WestStreet.jpeg
+img: GroundPlane/Plane.PNG
 date: 2018-02-19 15:20:00
 description: Release your AR projects from trackers using this Tutorial on Ground Plane detection.
 tag: [Augmented Reality, Architecture, Unity, Ground Plane, Plane Detection]
