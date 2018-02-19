@@ -42,7 +42,7 @@ Akin to the Target image, you can now add your AR models as children of your Gro
 
 In the Game Object Menu and select: Vuforia> Ground Plane> Plane Finder. The Plane Finder does the following:
 
-    a. Listens to input from the user (such as a tap on the device screen) with the Anchor Input Listener Behaviour
+    a. Listens to input from the user with the Anchor Input Listener Behaviour
     b. Attempts to find an appropriate plane to place content in the real world with the Plane Finder Behaviour
     c. Places the content into the real world with the Content Positioning Behaviour
 
