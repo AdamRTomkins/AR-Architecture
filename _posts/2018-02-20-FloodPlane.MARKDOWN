@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shader Design -  Flood Plane Simulator"
-img: 2DFlooding/FloodPlane.PNG
+img: 2DFlooding/mesh.PNG
 date: 2018-02-20 15:20:00
 description: Developing a Flood Plain Simulator using City data and terrain maps, in 2D.
 tag: [Augmented Reality, Architecture, Unity, Shaders, Terrain]
@@ -143,4 +143,13 @@ Next we can add further floodplane warning areas to the shader by modifying the 
 
  <video width="320" height="240" controls>
   <source src="{{ site.baseurl }}/img/Blogs/2DFlooding/atrisk.webm" type="video/webm">
+  
+  
+The next step to make a more informative application, is to add and align the Sheffield city mesh from the [City Mesh](https://adamrtomkins.github.io/AR-Architecture/Meshes/) tutorial.
+
+ <video width="640" height="480" controls>
+  <source src="{{ site.baseurl }}/img/Blogs/2DFlooding/mesh.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
+
 Your browser does not support the video tag.
