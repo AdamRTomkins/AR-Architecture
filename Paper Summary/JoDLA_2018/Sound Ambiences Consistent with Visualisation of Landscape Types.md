@@ -1,4 +1,4 @@
-# Sound Ambiences Consistent  with Visualisations of Landscape Types 
+# Sound Ambiences Consistent with Visualisations of Landscape Types 
 
 ## An Evaluation
 
