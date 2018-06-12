@@ -1,4 +1,4 @@
-# Tools for Planning, Design and Communication in Landscape Architecture: 
+# Tools for Planning, Design and Communication in Landscape Architecture 
 
 ## From Conventional Approaches to Virtual Reality
 
